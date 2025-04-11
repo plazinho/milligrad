@@ -16,7 +16,7 @@ pytest==8.3.5
 sortedcontainers==2.4.0
 sympy==1.13.1
 tomli==2.2.1
-torch==2.5.1+cpu
-torchaudio==2.5.1+cpu
-torchvision==0.20.1+cpu
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
 typing_extensions==4.9.0
