@@ -19,13 +19,13 @@ As well as the `tests/` directory, which contains several tests that compare the
 To install and use milligrad you just need to clone the repository:
 
 ```bash
-git clone https://github.com/plazinho/milligrad.git
+git clone git@github.com:plazinho/milligrad.git
 ```
 
 If you want to run the tests as well, you need to install the required libraries:
 
 ```bash
-git clone https://github.com/plazinho/milligrad.git
+git clone git@github.com:plazinho/milligrad.git
 cd milligrad
 pip install -r requirements.txt
 ```
